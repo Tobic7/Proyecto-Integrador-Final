@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1747953965 source:c:\users\admin\documents\progra 2\practica modelo de parcial\parcial 1 - 1c - 2024\proyecto gestion consecionaria\main.cpp
+	<iostream>
+
+1747954019 source:c:\users\admin\documents\progra 2\practica modelo de parcial\parcial 1 - 1c - 2024\proyecto gestion consecionaria\usuarios.cpp
+	<iostream>
+	"Usuarios.h"
+	<cstring>
+
+1747953965 c:\users\admin\documents\progra 2\practica modelo de parcial\parcial 1 - 1c - 2024\proyecto gestion consecionaria\usuarios.h
+
+1747959491 source:c:\users\admin\documents\progra 2\practica modelo de parcial\parcial 1 - 1c - 2024\proyecto gestion consecionaria\vehiculos.cpp
+	<iostream>
+	"Vehiculos.h"
+	<cstring>
+
+1747959491 c:\users\admin\documents\progra 2\practica modelo de parcial\parcial 1 - 1c - 2024\proyecto gestion consecionaria\vehiculos.h
+
+1747961074 source:c:\users\admin\documents\progra 2\practica modelo de parcial\parcial 1 - 1c - 2024\proyecto gestion consecionaria\tiendas.cpp
+	<iostream>
+	"Tiendas.h"
+	<cstring>
+
+1747961096 c:\users\admin\documents\progra 2\practica modelo de parcial\parcial 1 - 1c - 2024\proyecto gestion consecionaria\tiendas.h
+
+1747961624 source:c:\users\admin\documents\progra 2\practica modelo de parcial\parcial 1 - 1c - 2024\proyecto gestion consecionaria\archivos.cpp
+	<iostream>
+
+1747961624 source:c:\users\admin\documents\progra 2\practica modelo de parcial\parcial 1 - 1c - 2024\proyecto gestion consecionaria\fecha.cpp
+	"Fecha.h"
+
+1747962077 c:\users\admin\documents\progra 2\practica modelo de parcial\parcial 1 - 1c - 2024\proyecto gestion consecionaria\fecha.h
+	<string>
+
